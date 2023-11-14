@@ -1,0 +1,21 @@
+body{
+    /* background: grey*/
+}
+
+.block{
+    background: lightgray;
+  
+
+    
+}
+
+
+button{
+
+background: grey;
+color: white;
+    width: 70px;
+    height: 40px;
+
+}
+
